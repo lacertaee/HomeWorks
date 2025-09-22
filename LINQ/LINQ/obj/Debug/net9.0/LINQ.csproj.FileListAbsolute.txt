@@ -1,0 +1,14 @@
+C:\Users\lukau\source\repos\LINQ\LINQ\bin\Debug\net9.0\LINQ.exe
+C:\Users\lukau\source\repos\LINQ\LINQ\bin\Debug\net9.0\LINQ.deps.json
+C:\Users\lukau\source\repos\LINQ\LINQ\bin\Debug\net9.0\LINQ.runtimeconfig.json
+C:\Users\lukau\source\repos\LINQ\LINQ\bin\Debug\net9.0\LINQ.dll
+C:\Users\lukau\source\repos\LINQ\LINQ\bin\Debug\net9.0\LINQ.pdb
+C:\Users\lukau\source\repos\LINQ\LINQ\obj\Debug\net9.0\LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukau\source\repos\LINQ\LINQ\obj\Debug\net9.0\LINQ.AssemblyInfoInputs.cache
+C:\Users\lukau\source\repos\LINQ\LINQ\obj\Debug\net9.0\LINQ.AssemblyInfo.cs
+C:\Users\lukau\source\repos\LINQ\LINQ\obj\Debug\net9.0\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\lukau\source\repos\LINQ\LINQ\obj\Debug\net9.0\LINQ.dll
+C:\Users\lukau\source\repos\LINQ\LINQ\obj\Debug\net9.0\refint\LINQ.dll
+C:\Users\lukau\source\repos\LINQ\LINQ\obj\Debug\net9.0\LINQ.pdb
+C:\Users\lukau\source\repos\LINQ\LINQ\obj\Debug\net9.0\LINQ.genruntimeconfig.cache
+C:\Users\lukau\source\repos\LINQ\LINQ\obj\Debug\net9.0\ref\LINQ.dll
