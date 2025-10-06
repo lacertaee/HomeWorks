@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lukau\\source\\repos\\HomeWorks\\Homework8\\",
+  "WorkspaceRootPath": "C:\\Users\\lukau\\HomeWorks\\Homework8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{90F628C0-015E-4089-8324-3696A0294F8D}|Homework8\\Homework8.csproj|c:\\users\\lukau\\source\\repos\\homeworks\\homework8\\homework8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90F628C0-015E-4089-8324-3696A0294F8D}|Homework8\\Homework8.csproj|solutionrelative:homework8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lukau\\HomeWorks\\Homework8\\Homework8\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Homework8\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lukau\\source\\repos\\HomeWorks\\Homework8\\Homework8\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\lukau\\HomeWorks\\Homework8\\Homework8\\Program.cs",
               "RelativeDocumentMoniker": "Homework8\\Program.cs",
-              "ToolTip": "C:\\Users\\lukau\\source\\repos\\HomeWorks\\Homework8\\Homework8\\Program.cs",
+              "ToolTip": "C:\\Users\\lukau\\HomeWorks\\Homework8\\Homework8\\Program.cs",
               "RelativeToolTip": "Homework8\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvyMAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-30T18:54:03.413Z",
               "EditorCaption": ""

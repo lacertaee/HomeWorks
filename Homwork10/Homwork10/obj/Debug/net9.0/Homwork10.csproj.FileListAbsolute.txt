@@ -1,0 +1,15 @@
+C:\Users\lukau\HomeWorks\Homwork10\Homwork10\bin\Debug\net9.0\Homwork10.exe
+C:\Users\lukau\HomeWorks\Homwork10\Homwork10\bin\Debug\net9.0\Homwork10.deps.json
+C:\Users\lukau\HomeWorks\Homwork10\Homwork10\bin\Debug\net9.0\Homwork10.runtimeconfig.json
+C:\Users\lukau\HomeWorks\Homwork10\Homwork10\bin\Debug\net9.0\Homwork10.dll
+C:\Users\lukau\HomeWorks\Homwork10\Homwork10\bin\Debug\net9.0\Homwork10.pdb
+C:\Users\lukau\HomeWorks\Homwork10\Homwork10\obj\Debug\net9.0\Homwork10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukau\HomeWorks\Homwork10\Homwork10\obj\Debug\net9.0\Homwork10.AssemblyInfoInputs.cache
+C:\Users\lukau\HomeWorks\Homwork10\Homwork10\obj\Debug\net9.0\Homwork10.AssemblyInfo.cs
+C:\Users\lukau\HomeWorks\Homwork10\Homwork10\obj\Debug\net9.0\Homwork10.csproj.CoreCompileInputs.cache
+C:\Users\lukau\HomeWorks\Homwork10\Homwork10\obj\Debug\net9.0\Homwork10.sourcelink.json
+C:\Users\lukau\HomeWorks\Homwork10\Homwork10\obj\Debug\net9.0\Homwork10.dll
+C:\Users\lukau\HomeWorks\Homwork10\Homwork10\obj\Debug\net9.0\refint\Homwork10.dll
+C:\Users\lukau\HomeWorks\Homwork10\Homwork10\obj\Debug\net9.0\Homwork10.pdb
+C:\Users\lukau\HomeWorks\Homwork10\Homwork10\obj\Debug\net9.0\Homwork10.genruntimeconfig.cache
+C:\Users\lukau\HomeWorks\Homwork10\Homwork10\obj\Debug\net9.0\ref\Homwork10.dll

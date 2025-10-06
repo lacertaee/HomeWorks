@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lukau\\HomeWorks\\Homwork10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6783767-CE41-46E5-BC9B-739462BF9487}|Homwork10\\Homwork10.csproj|c:\\users\\lukau\\homeworks\\homwork10\\homwork10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6783767-CE41-46E5-BC9B-739462BF9487}|Homwork10\\Homwork10.csproj|solutionrelative:homwork10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6783767-CE41-46E5-BC9B-739462BF9487}|Homwork10\\Homwork10.csproj|c:\\users\\lukau\\homeworks\\homwork10\\homwork10\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6783767-CE41-46E5-BC9B-739462BF9487}|Homwork10\\Homwork10.csproj|solutionrelative:homwork10\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6783767-CE41-46E5-BC9B-739462BF9487}|Homwork10\\Homwork10.csproj|c:\\users\\lukau\\homeworks\\homwork10\\homwork10\\ifinanceoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6783767-CE41-46E5-BC9B-739462BF9487}|Homwork10\\Homwork10.csproj|solutionrelative:homwork10\\ifinanceoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6783767-CE41-46E5-BC9B-739462BF9487}|Homwork10\\Homwork10.csproj|c:\\users\\lukau\\homeworks\\homwork10\\homwork10\\microfinance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6783767-CE41-46E5-BC9B-739462BF9487}|Homwork10\\Homwork10.csproj|solutionrelative:homwork10\\microfinance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "C:\\Users\\lukau\\HomeWorks\\Homwork10\\Homwork10\\Bank.cs",
+              "RelativeDocumentMoniker": "Homwork10\\Bank.cs",
+              "ToolTip": "C:\\Users\\lukau\\HomeWorks\\Homwork10\\Homwork10\\Bank.cs",
+              "RelativeToolTip": "Homwork10\\Bank.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T09:07:36.612Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MicroFinance.cs",
+              "DocumentMoniker": "C:\\Users\\lukau\\HomeWorks\\Homwork10\\Homwork10\\MicroFinance.cs",
+              "RelativeDocumentMoniker": "Homwork10\\MicroFinance.cs",
+              "ToolTip": "C:\\Users\\lukau\\HomeWorks\\Homwork10\\Homwork10\\MicroFinance.cs",
+              "RelativeToolTip": "Homwork10\\MicroFinance.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:55:38.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IFinanceOperations.cs",
+              "DocumentMoniker": "C:\\Users\\lukau\\HomeWorks\\Homwork10\\Homwork10\\IFinanceOperations.cs",
+              "RelativeDocumentMoniker": "Homwork10\\IFinanceOperations.cs",
+              "ToolTip": "C:\\Users\\lukau\\HomeWorks\\Homwork10\\Homwork10\\IFinanceOperations.cs",
+              "RelativeToolTip": "Homwork10\\IFinanceOperations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T09:05:45.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lukau\\HomeWorks\\Homwork10\\Homwork10\\Program.cs",
+              "RelativeDocumentMoniker": "Homwork10\\Program.cs",
+              "ToolTip": "C:\\Users\\lukau\\HomeWorks\\Homwork10\\Homwork10\\Program.cs*",
+              "RelativeToolTip": "Homwork10\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T08:33:41.372Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
